@@ -1,7 +1,7 @@
 <-----Grandes Añadidos y Cambios---->
 
--> Se ha cambiado casi todas las unidades génericas del gato al gato de juguete
--> Correción y pulido en TODOS los codigos del mod
+-> Se ha cambiado casi todas las unidades genéricas del gato al gato de juguete
+-> Corrección y pulido en TODOS los códigos del mod
 
 --Añadidos--
 -> Gato normal: Se ha añadido 3 unidades
@@ -16,7 +16,7 @@
 -> Gatito: Se ha añadido 4 unidades
 --> Muñequito
 --> Osito de peluche
---> Osito de peluche con cañon 
+--> Osito de peluche con cañón 
 --> Gran peluche
 
 
@@ -34,15 +34,15 @@
 
 - Se han arreglado los proyectiles de los ratones
 
-- La habilidad "vision" del gato , se ha reducido levemente su campo visual (-5) y la duracion de la recarga es mayor (+10s)
+- La habilidad "visión" del gato , se ha reducido levemente su campo visual (-5) y la duración de la recarga es mayor (+10s)
 
 - Las cama de los gatos ganan +20$ por cada mejora
 
-- Se ha arreglado el movimiento de las figuras de accion al andar y se ha reducido su radio (20-->16)
+- Se ha arreglado el movimiento de las figuras de acción al andar y se ha reducido su radio (20-->16)
 
 - Se ha reducido de precio el puntero laser 5500 --> 3600
 
-- Todas las estructuras de la paloma ahora son un poquitas mas rapidas en hacer
+- Todas las estructuras de la paloma ahora son un poquitas mas rápidas en hacer
 
 - Los punteros laser se ha reducido su daño de 22 a 18
 
