@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="20" tileheight="20" infinite="0" nextlayerid="5" nextobjectid="8">
+ <tileset firstgid="1" source="../../../maps/ridges/Dirt Dirt - Ridge.tsx"/>
+ <tileset firstgid="22" source="../../../maps/ridges/LongGrass LongGrass - Ridge.tsx"/>
+ <tileset firstgid="52" source="../../../maps/ridges/LongGrass Dirt - Flat.tsx"/>
+ <tileset firstgid="73" source="../../../maps/units.tsx"/>
+ <tileset firstgid="334" source="../../../maps/misc.tsx"/>
+ <layer id="1" name="Ground" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3cSU7DMBhA4TAUyhU4B4OA3v9cdEElCo3iytP77bf4NlWUYr8UN2mU3bIsu8LuC2532ubj6DnD+89+HhLec2ublH1EZA8We7DYg4XaI7cXTfT13B7b7GEPezB6jLae24Ml+noebb7tEYs9WOzBMnqPmr32Gdb29WSPkKL2eDy6zfR3n2uv22Pc498esdiDxR7x2IPFHiz2YLFH+7m2B4M9WOzBYg8We/yXet2xhpTr8j16rF2/bTE3vT8jxB5q10P2GIk9WOzB4nrOYg8We7DM1qPm+XfuvUi/z+FL9Shx71TpMUY6Pz+Z5fvVVxCHzB6fgDGkyBmjJEmSJEmSJEkS0WsQb5njfAGMIUXv3yf9vfbctc/uae2ucI8b8Fgv/S00s93vQ2cPFnsw2YPFHiz2YJht/Wj1PXrr/ILU49I5Sqt56X08bD0TYLbnAfRmDxZ7sBB7zMweLPZgsQcLscfMzezBYg8We7DYg8Ue52reX7F17TZyjxLXgFNatDz2I/cY9X+aPVjswWIPFntw5toe9khhD3tQeqTuwx72sEf9HqPOtT3iIa7n9rAHxcg9Ijazx/W+Ac1BxTNAnAAA
+  </data>
+ </layer>
+ <layer id="2" name="Items" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2dWW7kIBQAkwtm9pGS+x9knI9IiHEb2zzoAqok/hBgKgrro99eX16+ben7llrxdqKOozzvr//n+TiR8jLfs7Jr2xVFWsePLf3c0q+G9Z2p4yjPVz+mec74yMvMfdS2K4q0jt9b+rOlvw3rO1PHUZ6vfszzHLnYy5/7qG1XFD3qiCTvx5RHLq6WI+eJ6scRfPQYr2qZ3Ufv8byW2X30Hs9rmd3HCA5SZvcxGvpgoQ8W+mChDxb6YKEPFvpgoQ8W+mChDxb6YLGSj1bnH5HlEny0PCfqcf4RWS7BR8tzoh7nH5HlEny0PKPw/ENq0AcLfbDQBwt9sNAHC32w0AcL+5HFSj5Wuk9NZdX71FS8T82C7qAUh3mXvbhQKVOKw7zLXlyolCnFYd7lUVyoXGP28SPls43PTqU2zfC9Z9shLJxrPJ/R1oOzM9p6cHZSB6U3JqQPV979kHaU3iiSvuijnsg5aUsfq8ydI+ekLX2sMneOnJO29OHc+TqOHyx0wUMXPB69USv9cT+RhfuJLHTA5dlntXfOOqO/l9QnIxDVzlG+l4b34VisfB+O+Ley2n24Vdcf1PFj1fUH1cdKDlKoPkbD+S4LfbDQBwt9sNAHC32woPmI3tNIy+u1X1JTD81H9J5GWl6v/ZKaemg+otfTaXm91uo19dB8rI4+WOiDhT5Y6IOFPljog4U+WOiDhT5Y6IOFPljog4X9yEIfLPTBYnYfxDvtR8w+no92p312H6Pdpz7qxytvG1B9pOT/u3r9TuuVPI/izEpvf5Ti3u62J5qjeJxev9N6Jc9enFnpXZyPnW/LfdxtTzRH8TjP/p3WvTx7cWZnfJTi3u62J5q0jn/UAkb8QJwAAA==
+  </data>
+ </layer>
+ <layer id="3" name="Units" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3OQQ0AIAwEwTrEEGLQgEI8NPcqM/9NtgoAAAAAAAAAAAAAAAAAAACAKVaz29ELAAAAAACAnNPsbnICAAAAAAAAAAAAAAAAAAAA+M4DFljW3ECcAAA=
+  </data>
+ </layer>
+ <objectgroup id="4" name="Triggers" visible="0">
+  <object id="7" name="map_info" x="902" y="902" width="216" height="188">
+   <properties>
+    <property name="type" value="skirmish"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

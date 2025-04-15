@@ -1,0 +1,25 @@
+
+[core]
+mass: 10000
+isBio: false
+isBuilding: true
+
+[graphics]
+image_shadow: AUTO
+shadowOffsetX: 1
+shadowOffsetY: 1
+
+[attack]
+canAttack: false
+canAttackFlyingUnits: false
+canAttackLandUnits: false
+canAttackUnderwaterUnits: false
+maxAttackRange: 0
+
+[movement]
+movementType: BUILDING
+moveSpeed: 0
+moveAccelerationSpeed: 0
+moveDecelerationSpeed: 0
+maxTurnSpeed: 0
+turnAcceleration: 0 
